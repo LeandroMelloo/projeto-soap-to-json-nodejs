@@ -12,6 +12,6 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
-    "soap": "^0.26.0"
+    "soap": "^0.45.0"
   }
 }
